@@ -1,4 +1,4 @@
-<h1>[1] Initial Sudoku Board with timer...</h1>
+<h3>[1] Initial Sudoku Board with timer...</h3>
 
 ![ss0](https://user-images.githubusercontent.com/54903209/94850431-8fb19800-0444-11eb-939c-65e3d37a1e92.JPG)
 
