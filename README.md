@@ -1,5 +1,4 @@
-# Soduko-Solver
-[1] Initial Sudoku Board with timer...
+<b>[1] Initial Sudoku Board with timer...</b>
 ![ss0](https://user-images.githubusercontent.com/54903209/94850431-8fb19800-0444-11eb-939c-65e3d37a1e92.JPG)
 
 [2] Entering num 5, if it correct at this position then it will fit there...
